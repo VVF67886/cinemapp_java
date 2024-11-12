@@ -1,5 +1,7 @@
 package it.vvf.cinemapp.dto;
 
+import java.io.Serializable;
+
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
@@ -7,13 +9,20 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import lombok.ToString;
 
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class UserRegistrationRequest {
-    @NotBlank(message = "L'email è obbligatoria")
+@ToString
+public class UserRegistrationRequest implements	Serializable {
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 9048557904749657933L;
+
+	@NotBlank(message = "L'email è obbligatoria")
     @Email(message = "Formato email non valido")
     private String email;
     
