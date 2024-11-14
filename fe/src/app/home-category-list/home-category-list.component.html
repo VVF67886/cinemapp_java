@@ -1,0 +1,10 @@
+<div class="mx-2 my-3 card">
+    <p class="text-center card-header bg-light">{{category}}</p>
+    <div class="card-body container">
+        <div class="row">
+          <div class="col-sm" *ngFor="let singleFilm of filmsInCategory">
+              <app-home-category-list-item [film]="singleFilm"></app-home-category-list-item>
+          </div>
+        </div>
+    </div>
+</div>
