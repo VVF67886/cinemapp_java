@@ -1,11 +1,11 @@
 import { Routes } from '@angular/router';
-import { LoginComponent } from './login/login.component';
 import { AuthGuard } from './auth.guard';
-import { CalendarioComponent } from './calendario/calendario.component';
-import { NewsComponent } from './news/news.component';
-import { HomeComponent } from './home/home.component';
-import { FilmDetailComponent } from './film-detail/film-detail.component';
-import { RegisterComponent } from './register/register.component';
+import { CalendarioComponent } from './uscite/calendario/calendario.component';
+import { HomeComponent } from './home/main/home.component';
+import { FilmDetailComponent } from './components/film-detail/film-detail.component';
+import { RegisterComponent } from './login/register/register.component';
+import { LoginComponent } from './login/login/login.component';
+import { NewsComponent } from './news/news/news.component';
 
 export const routes: Routes = [
     { path: '', component: HomeComponent, canActivate: [AuthGuard] },

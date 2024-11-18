@@ -1,0 +1,234 @@
+{
+  "films": [
+    {
+        "id": 1,
+        "title": "Campo di Battaglia",
+        "category": "Drammatico",
+        "director": "Gianni Amelio",
+        "distribution": "01 Distribution",
+        "producer": "Mint Pictures",
+        "year": 2024,
+        "releaseDate": "2024-09-04T00:00:00Z",
+        "plot": "Campo di Battaglia, il film diretto da Gianni Amelio, è ambientato sul finire della Prima Guerra Mondiale. \nDue ufficiali medici, amici d'infanzia lavorano nello stesso ospedale militare, dove ogni giorno arrivano dal fronte i feriti più gravi.\nMolti di loro però si sono procurati da soli le ferite, sono dei simulatori, che farebbero di tutto per non tornare a combattere.\nStefano (Gabriel Montesi), di famiglia altoborghese, con un padre che sogna per lui un avvenire in politica, è ossessionato da questi autolesionisti e, oltre che il medico, fa a suo modo lo sbirro. \nGiulio (Alessandro Borghi), apparentemente più comprensivo e tollerante, non si trova a proprio agio alla vista del sangue, è più portato verso la ricerca, avrebbe voluto diventare un biologo. Anna (Federica Rosellini), amica di entrambi dai tempi dell'università, sconta il fatto di essere donna. A quei tempi, senza una famiglia influente alle spalle, era difficile arrivare a una laurea in medicina. Ma lei affronta con grinta un lavoro duro e volontario alla Croce Rossa. \nQualcosa di strano accade intanto tra i malati: molti si aggravano misteriosamente. Forse c'è qualcuno che provoca di proposito delle complicazioni alle loro ferite, perché i soldati vengano mandati a casa, anche storpi, anche mutilati, purché non tornino in battaglia. C'è dunque un sabotatore dentro l'ospedale, di cui Anna è la prima a sospettare. Ma sul fronte di guerra, proprio verso la fine del conflitto, si diffonde una specie di infezione che colpisce più delle armi nemiche. E presto contagia anche la popolazione civile...",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Never Let Go - A un Passo dal Male",
+        "category": "Drammatico",
+        "director": "Alexandre Aja",
+        "distribution": "Notorious",
+        "producer": "Mint Pictures",
+        "year": 2024,
+        "releaseDate": "2024-09-26T00:00:00Z",
+        "plot": "Never Let Go - A un Passo dal Male, il film diretto da Alexandre Aja, racconta la storia di una madre (Halle Berry) che vive in una casa isolata nel bosco con i suoi due figli gemelli (Percy Daggs IV e Anthony B. Jenkins). \nSono convinti di essere circondati da spiriti maligni e che la casa sia l'unico luogo dove sono al sicuro. Quando devono allontanarsi, ognuno di loro indossa una lunga corda che lo tiene sempre legato alla casa. In questo modo i demoni del bosco non possono far loro del male. \nMa quando uno dei bambini inizia a dubitare dell'esistenza degli spiriti, la sua corda si spezza mettendo in pericolo la sua vita e quella di tutta la famiglia. Inizia allora una terrificante lotta per la sopravvivenza.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/65776.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/65776.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/65776.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Joker: Folie à Deux",
+        "category": "Drammatico",
+        "director": "Todd Phillips",
+        "distribution": "Warner Bros. Pictures",
+        "producer": "Mint Pictures",
+        "year": 2024,
+        "releaseDate": "2024-10-02T00:00:00Z",
+        "plot": "Erano tutti Joker, una rivoluzione di mascherati pronti a cavalcare il male di vivere di un individuo, Arthur Fleck, invadendo le strade. \nCosì li avevamo lasciati, alla fine del primo Joker di Todd Phillips, esploso in mano anche a lui e diventato inatteso trionfo di critica oltre che di pubblico, con undici candidature all'Oscar, un Leone d'oro e la trasformazione dello scaltro autore di commedie alla Una notte da leoni in un front runner da festival e stagione dei premi. \nOvviamente l'interpretazione di quel talentaccio di Joaquin Phoenix aveva aiutato, capace di rappresentare la sequela di drammi infantili e trasformarle in smorfie rabbiose, al sapore di sorrisi da folle, in età adulta. A proposito di follie, qui le fanno in due, visto che la caratteristica principale di Joker: Folie à deux è che dalla dilatazione nelle strade della sua follia, questa volta si torna a rinchiuderla dove forse sarebbe meglio contenerla, in carcere, e sottoposta a processo.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/62047.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/62047.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/62047.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Making of",
+        "category": "Sentimentale",
+        "director": "Cédric Kahn",
+        "distribution": "I Wonder Pictures",
+        "producer": "Mint Pictures",
+        "year": 2023,
+        "releaseDate": "2024-09-26T00:00:00Z",
+        "plot": "Il protagonista di Making Of è Simon (Denis Podalydès), un regista che è riuscito ad avviare un film al quale tiene molto: narra la vicenda di alcuni operai che diventano proprietari della propria fabbrica. \nSventuratamente le condizioni nelle quali il film viene realizzato non sono ottimali: un attore primadonna (Jonathan Cohen) non è molto controllabile, Simon stesso è in crisi con la moglie, la troupe è arrogante, alcuni finanziatori si tirano indietro. A salvare la motivazione di Simon c'è la presenza del giovane Joseph (Stefan Crepon), incaricato di girare un backstage di tutta la lavorazione: un testimone al margine (o quasi, visto che è innamorato dell'attrice coprotagonista Nadia), ma anche il depositario di quell'entusiasmo che Simon potrebbe riuscire a recuperare. In nome del cinema, in una fusione della realtà con la finzione. Presentato FuorI Concorso al Festival di Venezia 2023, Making Of arriva in Italia distribuito da I Wonder Pictures.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/63482.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/63482.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/63482.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Maria Montessori - La nouvelle femme",
+        "category": "Sentimentale",
+        "director": "Léa Todorov",
+        "distribution": "Wanted Cinema",
+        "producer": "Mint Pictures",
+        "year": 2024,
+        "releaseDate": "2024-09-26T00:00:00Z",
+        "plot": "Maria Montessori, film diretto da Léa Todorov, è ambientato nel Novecento e racconta la storia di Lili d'Aengy (Leila Bekhti) una cocotte parigina che decide di fuggire da Parigi per proteggere la sua reputazione. La donna, infatti, si rende conto che sua figlia Tina (Rafaëlle Sonneville-Caby) ha un disturbo dell'apprendimento e, prima che venga scoperto e possa ledere alla sua vita mondana, si rifugia a Roma per nasconderla. \nUna volta giunta nella Capitale italiana, la vita di Lili viene sconvolta dall'incontro con Maria Montessori (Jasmine Trinca), che ha ideato un metodo rivoluzionario per i bambini con difficoltà di apprendimento. \nLili, però, ignora che la stessa Maria nasconde un segreto, ossia un figlio nato al di fuori del matrimonio. Le due donne, seppur molto diverse, l'una dall'altra, si aiuteranno a vicenda per trovare e conquistare il loro posto nel mondo: una per rivalutare la propria vita e le proprie relazioni familiari, l'altra per fare la storia.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/65707.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/65707.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/65707.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Familia",
+        "category": "Sentimentale",
+        "director": "Francesco Costabile",
+        "distribution": "Medusa Film",
+        "producer": "Mint Pictures",
+        "year": 2024,
+        "releaseDate": "2024-10-02T00:00:00Z",
+        "plot": "Familia, il film diretto da Francesco Costabile, racconta la storia di Luigi Celeste. \nLuigi ha vent'anni e vive con sua madre Licia e suo fratello Alessandro, i tre sono uniti da un legame profondo. Sono quasi dieci anni che nessuno di loro vede Franco, compagno e padre, che ha reso l'infanzia dei due ragazzi e la giovinezza di Licia un ricordo fatto di paura e prevaricazione.\nLuigi vive la strada e, alla ricerca di un senso di appartenenza e di identità, si unisce a un gruppo di estrema destra dove respira ancora rabbia e sopraffazione.\nUn giorno Franco torna, rivuole i suoi figli, rivuole la sua famiglia, ma è un uomo che avvelena tutto ciò che tocca e rende chi ama prigioniero della sua ombra.\nQuella di Luigi e della sua famiglia è una storia che arriva al fondo dell'abisso per compiere un percorso di rinascita, costi quel che costi.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/62456.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/62456.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/62456.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Oasis: Supersonic",
+        "category": "Documentario",
+        "director": "Mat Whitecross",
+        "distribution": "Lucky Red",
+        "producer": "Mint Pictures",
+        "year": 2016,
+        "releaseDate": "2024-09-16T00:00:00Z",
+        "plot": "Oasis: Supersonic è un docufilm del 2016 diretto da Mat Whitecross. \nIl documentario è un omaggio agli Oasis, la band indie di Noel e Liam Gallagher, che racconta i primi tre vorticosi anni di carriera, da Glasgow del 1993 in cui sono stati scoperti ai due concerti del 1996 a Knebworth, dove la band ha suonato di fronte a 250.000 persone, lasciandone in lista d'attesa per i biglietti altre 2 milioni. \nL'ascesa al successo comincia nel grigio ambiente sottoproletario di Burnage, periferia di Manchester, dove i due fratelli sono cresciuti dalla madre, lontano dagli abusi di un padre alcolista, tra calcio, Beatles e punk rock. Liam mette su una band e coinvolge il maggiore Noel, che subito afferma la sua egemonia sul gruppo e scopre di esser nato per scrivere canzoni. \nIn un solo anno gli Oasis sono ovunque, nelle radio, negli stereo, nel cuore di tutto il mondo. Al culmine del loro successo non hanno concorrenti: il miracolo degli hooligan delle case popolari trasformati in rockstar è avvenuto. Sono stelle che brillano anche in tutta la loro trasgressione e per il disprezzo della vita che sembra accompagnarli. Noel e Liam s'insultano, sfottono tutto e tutti, prendono parte a risse, ma tutto cioè non ha impedito di segnare per sempre la storia del rock britannico.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/53391.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/53391.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/53391.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Jung Kook: I Am Still",
+        "category": "Drammatico",
+        "director": "Jun-Soo Park",
+        "distribution": "Nexo Studios",
+        "producer": "HYBE",
+        "year": 2024,
+        "releaseDate": "2024-09-18T00:00:00Z",
+        "plot": "Jung Kook: I Am Still, film diretto da Jun-Soo Park, è un documentario sulla popstar mondiale Jung Kook, membro dei BTS, la band k-pop che ha raggiunto un successo globale. Il film è uno guardo intimo sulla vita dell'artista e sull'ascesa della sua carriera, fino al raggiungimento della celebrità. Oltre all'esibizioni in live, il documentario riporta filmati esclusivi e interviste che raccontano il grande lavoro intrapreso dal cantante e le sfide che ha dovuto superare per arrivare alla fama mondiale.\nIl regista ha seguito Jung Kook dopo il suo debutto come solista nel luglio del 2023, inaugurato con il singolo \"Seven\", che lo ha visto raggiungere la classifica Billboard HOT 100.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/66093.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/66093.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/66093.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Shining",
+        "category": "Horror",
+        "director": "Stanley Kubrick",
+        "distribution": "Warner Home Video",
+        "producer": "PIC",
+        "year": 1980,
+        "releaseDate": "2024-10-07T00:00:00Z",
+        "plot": "Shining è un film del 1980 diretto da Stanley Kubrick, basato sull'omonimo romanzo di Stephen King. \nIl protagonista della vicenda è Jack Torrance (Jack Nicholson), ex insegnante disoccupato con il vizio dell'alcol, in cerca di ispirazione per il suo romanzo. Jack accetta di buon grado la proposta del direttore dell'Overlook Hotel, che lo vuole assumere come guardiano invernale. \nSebbene l'uomo gli confidi che dieci anni prima, in quello stesso luogo, il suo predecessore Delbert Grady (Philip Stone) aveva perso la ragione, trucidando la sua famiglia, Jack non sembra spaventato e coglie l'occasione lavorativa per dedicarsi alla scrittura.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/12784.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/12784.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/12784.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Iddu - L'ultimo Padrino",
+        "category": "Drammatico",
+        "director": "Fabio Grassadonia",
+        "distribution": "01Distribution",
+        "producer": "01Distribution",
+        "year": 2024,
+        "releaseDate": "2024-10-10T00:00:00Z",
+        "plot": "Iddu - L'ultimo Padrino, film diretto da Fabio Grassadonia e Antonio Piazza, è ambientato in Sicilia nei primi anni 2000. \n Dopo alcuni anni in prigione per mafia, Catello, politico di lungo corso, ha perso tutto. Quando i Servizi Segreti italiani gli chiedono aiuto per catturare il suo figlioccio Matteo, ultimo grande latitante di mafia in circolazione, Catello coglie l'occasione per rimettersi in gioco. Uomo furbo dalle cento maschere, instancabile illusionista che trasforma verità in menzogna e menzogna in verità, Catello dà vita a un unico quanto improbabile scambio epistolare con il latitante, del cui vuoto emotivo cerca d'approfittare. Un azzardo che con uno dei criminali più ricercati al mondo comporta un certo rischio...",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/63361.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/63361.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/63361.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Berlinguer - La Grande Ambizione",
+        "category": "Biografico",
+        "director": "Andrea Segre",
+        "distribution": "Lucky Red",
+        "producer": "Lucky Red",
+        "year": 2024,
+        "releaseDate": "2024-10-31T00:00:00Z",
+        "plot": "Berlinguer - La Grande Ambizione, il film diretto da Andrea Segre, racconta cinque anni della vita privata e pubblica di Enrico Berlinguer (Elio Germano), dal 1973 al 1978. \nInizia nel 1973, quando sfuggì a Sofia a un attentato dei servizi bulgari, attraverso le campagne elettorali e i viaggi a Mosca, le copertine dei giornali di tutto il mondo e le rischiose relazioni con il potere, fino all'assassinio nel 1978 del Presidente della Democrazia Cristiana Aldo Moro: la storia di un uomo e di un popolo per cui vita e politica, privato e collettivo, erano indissolubilmente legati. \nSfidando i dogmi della guerra fredda e di un mondo diviso in due, Berlinguer e il PCI tentarono per cinque anni di andare al governo, aprendo a una stagione di dialogo con la Democrazia Cristiana e arrivando a un passo dal cambiare la storia.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/65897.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/65897.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/65897.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Buffalo Kids",
+        "category": "Animazione",
+        "director": "Pedro Solís García",
+        "distribution": "Warner Bro",
+        "producer": "Warner Bro",
+        "year": 2024,
+        "releaseDate": "2024-10-31T00:00:00Z",
+        "plot": "Buffalo Kids, film diretto da Juan Jesús García Galocha e Pedro Solís García, racconta la storia di due orfani irlandesi, che intraprendono un lungo ed emozionante viaggio, diretti verso New York, per incontrare lo zio e reclamarne l'eredità. Lungo il tragitto, i due stringono amicizia con una governante, che supervisiona un gruppo di orfani, e si ritroveranno ad affrontare anche l'attacco di un gruppo di banditi.",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/65904.jpg",
+        "images": [
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/65904.jpg?a=1",
+            "https://mr.comingsoon.it/imgdb/locandine/235x336/65904.jpg"
+        ]
+    }
+  ],
+  "news": [
+    {
+        "id": 1,
+        "title": "Io sono nessuno 2, John Ortiz si unisce al cast del sequel",
+        "body": "Interpretato da Bob Odenkirk, Mansell è stato introdotto sin da subito come un uomo dall'apparente vita normale che cela invece un misterioso e pericoloso passato che tornerà a bussare prepotentemente alla sua porta. \nMansell ha dei conti in sospeso con brutti ceffi e, per assicurarsi che la sua famiglia sia sana e salva, è costretto ad impugnare nuovamente le armi e darsi da fare. Rispolverando la sua vecchia vita, Mansell sarà costretto a sporcarsi ancora una volta le mani, nel disperato tentativo di salvare sua moglie Becca e la sua famiglia.\nDa tempo è stato annunciato un film sequel di Io sono nessuno e il cast continua a lievitare. Naturalmente non potrà fare a meno di Bob Odenkirk, essendo il protagonista, ma dovrà vedersela anche con una new entry interessante, quale Sharon Stone, il cui ruolo è stato soltanto anticipato ed etichettato come quello da antagonista. \nTornerà anche Christopher Lloyd e vedremo anche Colin Hanks. In merito all'ultimo ingresso, John Ortiz negli ultimi anni ha recitato in diversi film tra cui La vita dopo - The Fallout, The In Between - Non ti perderà e American Fiction. \nLato televisivo, invece, ha dato un contributo a Messiah e Will Trent. Non è chiaro chi interpreterà in Io sono nessuno 2: per scoprirlo, probabilmente dovremo attendere ulteriori dettagli in merito alla trama o quantomeno il primo trailer. Sappiamo, al momento, che il sequel ha fissato già una data d'uscita al cinema prevista per il 15 agosto 2025 negli Stati Uniti d'America",
+        "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg"
+    },
+    {
+        "id": 2,
+        "title": "James Cameron abbraccia l'AI nel consiglio di amministrazione di Stability AI \"Inimmaginabili mezzi per raccontare storie\"",
+        "body": "Stability AI, l'azienda dietro Stable Diffusion, ha annunciato che James Cameron è entrato nel suo consiglio di amministrazione.\nNell'annuncio il regista di Terminator e Avatar motiva la sua decisione: da sempre attento alle nuove tecnologie, non può voltare le spalle all'Intelligenza Artificiale.\nTerminata l'ondata di proteste contro l'IA, con conseguenti regolamentazioni a Hollywood riguardanti attori e attrici, il settore comincia ad annunciare partnership stabili che porteranno l'Intelligenza Artificiale nel cinema americano: dopo l'annuncio recente della Lionsgate, adesso è James Cameron a entrare nel consiglio di amministrazione della Stability AI, l'azienda dietro al famoso generatore di immagini Stable Diffusion. \nNel comunicato ufficiale, il regista di Terminator 2, Titanic e Avatar ha motivato la sua scelta con la sua naturale vocazione, da sempre: guardare al futuro tecnico della settima arte.",
+        "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Supergirl:Woman of Tomorrow,Matthias Schoenaerts sarà Krem delle Colline Gialle",
+        "body": "Si vociferava già da qualche settimana del possibile ingresso di Matthias Schoenaerts in Supergirl: Woman of Tomorrow, diventato ufficialmente realtà: sarà Krem delle Colline Gialle.\nSupergirl: Woman of Tomorrow è il prossimo progetto in cantiere per i DC Studios. James Gunn ha lavorato duramente negli ultimi mesi sul set di Superman, ma quelle riprese sono ormai state archiviate da tempo e il pubblico ha già dirottato lo sguardo sui prossimi progetti in fase di realizzazione, tra cui il prossimo capitolo dedicato a Supergirl. \nDa tempo, è stato annunciato il coinvolgimento di Milly Alcock, star di House of the Dragon che interpreterà la nuova Ragazza d'Acciaio nel DCU. E a quanto pare dovrà vedersela con Krem delle Colline Gialle, interpretato da Matthias Schoenaerts. Ma chi è, esattamente, Krem delle Colline Gialle? Nei fumetti, questo personaggio è uno spietato individuo, un ladro criminale armato di spada e frecce dipinto da molti come un assassino di uomini, donne e cani. \nUn'etichetta guadagnata anche dopo aver ucciso il padre della sua ragazza aliena Ruthye Marye Knoll, che metterà una taglia sulla sua testa partendo per una missione attraverso la galassia e vendicare suo padre insieme a Supergirl.",
+        "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg"
+    },
+    {
+        "id": 4,
+        "title": "I migliori film in streaming di Catherine Zeta-Jones",
+        "body": "Compie oggi 55 anni la gallese D.O.C. Catherine Zeta-Jones.  Esplosa alla fine degli anni '90, l'attrice ha vissuto un momento artistico estremamente fulgido che l'ha portata in quegli anni a diventare una delle star più ricercate ed acclamate ad Hollywood. I cinque film in streaming che abbiamo selezionato per renderle omaggio testimoniano non soltanto la sua enorme presenza scenica ma anche una versatilità che l'ha portata addirittura a vincere l'Oscar. \n\nCinque film in streaming interpretati da Catherine Zeta-Jones\n - La maschera di Zorro\n - Entrapment\n - Traffic\n - Chicago\n - The Terminal ",
+        "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Canary Black: ecco il trailer ufficiale dello spy-thriller d'azione con Kate Beckin",
+        "body": "Debutta il 24 ottobre in streaming su Prime Video questo film diretto dal francese Pierre Morel. Oltre a Beckinsale, nel cast anche Saffron Burrows, Rupert Friend e Ray Stevenson. \nSolo per citare titoli recenti ci sono state Charlize Theron in Atomica Bionda, Angelina Jolie in Salt, Jennifer Lawrence in Red Sparrow, Gal Gadot in Heart of Stone, Jessica Chastain e compagnia in Secret Team 355. In origine c'era la Annie Parillaud di Nikita.\nOra tocca a Kate Beckinsale raccogliere il testimone delle eroine d'azione in thriller di spionaggio: è lei infatti la protagonista di Canary Blond, film che debutterà in streaming su Prime Video il 24 ottobre.\nIl film, girato in Croazia, è diretto dal francese Pierre Morel (non a caso sodale di Besson), quello di Io vi troverò e Peppermint - L'angelo della vendetta, che si è basato su un copione di Matthew Kennedy che racconta la storia di una letale agente della CIA di nome Avery Graves. Quando suo marito - ignaro della professione della donna - viene rapito dai dei terroristi che vorrebbero estorcere dei segreti di stato, Avery dovrà agire da sola, sfruttando i suoi contatti non ufficiali per cercare di ottenere quanto le viene richiesto, potendo contare solo sulle sue doti di combattimento per sopravvivere a tranelli e tradimenti, e cercando al tempo stesso di salvare l'uomo che ama e evitare una crisi planetaria. Del cast fanno parte anche Rupert Friend, Ray Stevenson e Saffron Burrows.",
+        "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Vermiglio rappresenterà l'Italia agli Oscar",
+        "body": "Dopo aver vinto il Leone d'argento alla scorsa Mostra del Cinema di Venezia, Vermiglio di Maura Delpero è stato selezionato per rappresentare l'Italia ai prossimi Oscar per il film internazionale. E' quindi stato preferito al favorito Parthenope di Paolo Sorrentino. \nCon una certa sorpresa, Vermiglio di Maura Delpero è stato preferito al favorito Parthenope di Paolo Sorrentino dal Comitato di Selezione per il film italiano da designare agli Oscars®, istituito dall'ANICA su incarico dell'Academy of Motion Picture Arts and Sciences®. \nRiunito davanti a un notaio e composto da Pedro Armocida, Maria Rita Barbera, Cristina Battocletti, Giorgia Farina, Francesca Manieri, Guglielmo Marchetti, Paola Mencuccini, Giacomo Scarpelli, Giulia Louise Steigerwalt, Alessandro Usai, Cecilia Zanuso, ha votato infatti Vermiglio di Maura Delpero quale film che rappresenterà l'Italia alla 97° edizione degli Academy Awards®, nella selezione per la categoria International Feature Film Award, con la seguente motivazione: “per la sua capacità di raccontare l'Italia rurale del passato, i cui sentimenti e temi vengono resi universali e attuali”. \n“Vermiglio, che negli Stati Uniti sarà distribuito da Sideshow and Janus Films, concorrerà per la shortlist che includerà i quindici migliori film internazionali selezionati dall'Academy® e che sarà resa nota il 17 dicembre 2024.  \nL'annuncio delle nomination (la cinquina dei film nominati per concorrere al premio) è previsto per il 17 gennaio 2025, mentre la cerimonia di consegna degli Oscars® si terrà a Los Angeles il 2 marzo 2025",
+        "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/64086.jpg"
+    }
+  ]
+}

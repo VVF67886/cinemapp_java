@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { Film } from '../film';
+import { Film } from '../../film';
 import { RouterLink, RouterLinkActive } from '@angular/router';
 
 @Component({

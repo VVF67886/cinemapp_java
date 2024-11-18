@@ -1,0 +1,34 @@
+<app-nav></app-nav>
+
+<div class="mx-2 my-3 card">
+    <p class="text-center card-header bg-light">{{filmById?.title}}</p>
+    <div class="card-body container">
+        <div class="row">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img [src]="filmById?.poster" class="rounded mx-auto img-fluid d-block" [alt]="filmById?.title">
+                            </div>
+                            <div class="col-md-6">
+                                <ul class="list-group">
+                                    <li class="list-group-item disabled"><b>Titolo:</b> {{filmById?.title}}</li>
+                                    <li class="list-group-item disabled"><b>Genere:</b> {{filmById?.category}}</li>
+                                    <li class="list-group-item disabled"><b>Regia:</b> {{filmById?.director}}</li>
+                                    <li class="list-group-item disabled"><b>Distributore:</b> {{filmById?.distribution}}</li>
+                                    <li class="list-group-item disabled"><b>Produttore:</b> {{filmById?.producer}}</li>
+                                    <li class="list-group-item disabled"><b>Anno:</b> {{filmById?.year}}</li>
+                                    <li class="list-group-item disabled"><b>Uscita:</b> {{filmById?.releaseDate}}</li>
+                                  </ul>
+                            </div>
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-md-12">{{filmById?.plot}}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

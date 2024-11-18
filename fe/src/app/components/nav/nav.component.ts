@@ -1,14 +1,13 @@
 import { Component } from '@angular/core';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
-import { AuthService } from '../auth.service';
 import { RouterModule } from '@angular/router';
+import { AuthService } from '../../auth.service';
 
 @Component({
   selector: 'app-nav',
   standalone: true,
   imports: [NgbModule, RouterModule],
-  templateUrl: './nav.component.html',
-  styleUrl: './nav.component.css'
+  templateUrl: './nav.component.html'
 })
 export class NavComponent {
  

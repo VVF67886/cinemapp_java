@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
-import { NavComponent } from '../nav/nav.component';
-import { HomeCategoryListComponent } from '../home-category-list/home-category-list.component';
 import { CommonModule } from '@angular/common';
+import { HomeCategoryListComponent } from '../category-list/home-category-list.component';
+import { NavComponent } from '../../components/nav/nav.component';
 
 @Component({
   selector: 'app-home',
