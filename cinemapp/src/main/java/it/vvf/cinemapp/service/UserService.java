@@ -2,14 +2,16 @@ package it.vvf.cinemapp.service;
 
 
 import java.time.LocalDateTime;
+import java.util.Optional;
 
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import it.vvf.cinemapp.dto.UserRegistrationRequest;
 import it.vvf.cinemapp.dto.UserResponse;
-import it.vvf.cinemapp.exceptions.ResourceNotFoundException;
+import it.vvf.cinemapp.exceptions.BadRequestException;
 import it.vvf.cinemapp.model.User;
 import it.vvf.cinemapp.repository.UserRepository;
 import lombok.extern.slf4j.Slf4j;
@@ -27,9 +29,28 @@ public class UserService {
         this.passwordEncoder = passwordEncoder;
     }
     
+    
+    
+    public Optional<UserDetails> loadUserByUsername(String email) throws UsernameNotFoundException {
+        User user = userRepository.findByEmail(email)
+            .orElseThrow(() -> new UsernameNotFoundException("Utente non trovato con email: " + email));
+
+        return Optional.of(org.springframework.security.core.userdetails.User
+            .withUsername(user.getEmail())
+            .password(user.getPassword())
+            .roles("USER")
+            .build());
+    }
+    
+    
+    
+    public Optional<User> findByEmail(String email) {
+        return userRepository.findByEmail(email);
+    }
+    
     public UserResponse registerUser(UserRegistrationRequest request) {
         if (userRepository.existsByEmail(request.getEmail())) {
-            throw new ResourceNotFoundException("Email già registrata: " + request.getEmail());
+            throw new BadRequestException("Email già registrata");
         }
         
         User user = User.builder()
@@ -46,7 +67,6 @@ public class UserService {
                 .id(savedUser.getId())
                 .email(savedUser.getEmail())
                 .fullName(savedUser.getFullName())
-                .registrationDate(savedUser.getRegistrationDate())
                 .build();
     }
 }
