@@ -30,6 +30,7 @@ public class SecurityConfig {
                     "/api/users/**",
                     "/api/auth/**",
                     "/api/health/**",
+                    "/api/films/**",
                     "/h2-console/**",
                     "/v3/api-docs/**",
                     "/v3/api-docs.yaml",
