@@ -1,5 +1,5 @@
 import { Routes } from '@angular/router';
-import { AuthGuard } from './auth.guard';
+import { AuthGuard } from './services/security/auth.guard';
 import { CalendarioComponent } from './uscite/calendario/calendario.component';
 import { HomeComponent } from './home/main/home.component';
 import { FilmDetailComponent } from './components/film-detail/film-detail.component';

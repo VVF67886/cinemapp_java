@@ -3,7 +3,7 @@ import { Router, RouterLink } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { NgbAlert } from '@ng-bootstrap/ng-bootstrap';
-import { AuthService } from '../../auth.service';
+import { AuthService } from '../../services/security/auth.service';
 
 @Component({
   selector: 'app-login',

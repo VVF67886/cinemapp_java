@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { RouterModule } from '@angular/router';
-import { AuthService } from '../../auth.service';
+import { AuthService } from '../../services/security/auth.service';
 
 @Component({
   selector: 'app-nav',

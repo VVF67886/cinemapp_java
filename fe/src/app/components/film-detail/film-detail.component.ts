@@ -1,8 +1,8 @@
 import { Component, inject, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { NavComponent } from '../nav/nav.component';
-import { FilmsService } from '../../films.service';
-import { Film } from '../../film';
+import { FilmsService } from '../../services/data/film/films.service';
+import { Film } from '../../services/interfaces/film';
 
 @Component({
   selector: 'app-film-detail',

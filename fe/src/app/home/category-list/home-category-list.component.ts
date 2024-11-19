@@ -1,8 +1,8 @@
 import { Component, Input } from '@angular/core';
-import { Film } from '../../film';
+import { Film } from '../../services/interfaces/film';
 import { HomeCategoryListItemComponent } from '../category-list-item/home-category-list-item.component';
 import { CommonModule } from '@angular/common';
-import { FilmsService } from '../../films.service';
+import { FilmsService } from '../../services/data/film/films.service';
 
 @Component({
   selector: 'app-home-category-list',
